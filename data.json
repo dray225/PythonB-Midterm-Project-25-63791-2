@@ -1,0 +1,73 @@
+{
+    "profiles": [
+        {
+            "name": "MAN",
+            "high_score": 425,
+            "max_level": 5,
+            "food_stats": {
+                "normal": 82,
+                "big": 5,
+                "speed": 6,
+                "shrink": 3
+            }
+        },
+        {
+            "name": "JON",
+            "high_score": 0,
+            "max_level": 1,
+            "food_stats": {
+                "normal": 0,
+                "big": 0,
+                "speed": 0,
+                "shrink": 0
+            }
+        },
+        {
+            "name": "SKK",
+            "high_score": 340,
+            "max_level": 5,
+            "food_stats": {
+                "normal": 24,
+                "big": 0,
+                "speed": 3,
+                "shrink": 1
+            }
+        },
+        {
+            "name": "GOD",
+            "high_score": 0,
+            "max_level": 1,
+            "food_stats": {
+                "normal": 0,
+                "big": 0,
+                "speed": 0,
+                "shrink": 0
+            }
+        },
+        {
+            "name": "BOD",
+            "high_score": 0,
+            "max_level": 1,
+            "food_stats": {
+                "normal": 0,
+                "big": 0,
+                "speed": 0,
+                "shrink": 0
+            }
+        }
+    ],
+    "leaderboard": [
+        {
+            "name": "MAN",
+            "score": 425
+        },
+        {
+            "name": "SKK",
+            "score": 340
+        },
+        {
+            "name": "MAN",
+            "score": 270
+        }
+    ]
+}
